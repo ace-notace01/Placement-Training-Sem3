@@ -12,6 +12,7 @@ public class BankTransactionReferenceGeneratorValidator {
         if(reference != null){
             System.out.println("Formatted reference: " + reference);
         }
+        sc.close();
     }
     static String normalizeReference(String reference){
         reference = reference.trim();
