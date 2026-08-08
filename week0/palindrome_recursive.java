@@ -1,4 +1,4 @@
-package STEP.week1;
+package week0;
 public class palindrome_recursive {
     public static void main(String[] args) {
         String word = "madam";

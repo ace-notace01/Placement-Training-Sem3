@@ -1,4 +1,4 @@
-package STEP.week1;
+package week0;
 public class palindrome_iterator {
     public static void main(String[] args) {
 

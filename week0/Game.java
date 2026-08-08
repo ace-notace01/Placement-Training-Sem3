@@ -1,4 +1,4 @@
-package STEP.week1;
+package week0;
 import java.util.*;
 public class Game {
     public static void main(String args[]){
